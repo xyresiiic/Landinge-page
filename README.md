@@ -42,3 +42,8 @@ This project features a fully responsive and visually elegant **landing page** f
   Contains brand info, quick links, and legal disclaimers.
 
 ---
+## Demo 🎬
+
+Try it out live : https://xyresiiic.github.io/Landinge-page/
+
+---
